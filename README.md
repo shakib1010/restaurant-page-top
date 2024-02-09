@@ -1,4 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+# Simple restaurand page app using JS!
 
 This project has been created using **webpack-cli**, you can now run
 
@@ -6,10 +6,6 @@ This project has been created using **webpack-cli**, you can now run
 npm run build
 ```
 
-or
-
-```
-yarn build
-```
-
 to bundle your application
+
+Live Preview link: https://shakib1010.github.io/restaurant-page-top/ 
